@@ -1,6 +1,6 @@
 
 
-## About Me:  
+## Hello, welcome to my Github!  
 #### Hello, my name is Diego, I'm 19 years old and I'm a Computer Science student at IFCE (Federal Institute of Ceará). I'm currently studying Front-end, focused on web development. Connect with me: 
 <div align="left">
 <a href="https://github.com/DiegooInacio" target="_blank">
@@ -39,6 +39,4 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DiegooInacio&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
-
-----
 
