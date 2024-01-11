@@ -18,7 +18,7 @@
 <br/>  
 
 
-## 💻 Techs  
+### 💻 Techs:
 
 
 ### Frontend  
