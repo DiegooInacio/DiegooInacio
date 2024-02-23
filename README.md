@@ -1,7 +1,7 @@
 
 
 ## Hello, welcome to my Github! :wave:
-#### Hello, my name is Diego, I'm 19 years old and I'm a Computer Science student at IFCE (Federal Institute of Ceará). I'm currently studying Front-end, focused on web development. Connect with me: 
+#### Hello, my name is Diego, I'm 20 years old and I'm a Computer Science student at IFCE (Federal Institute of Ceará). I'm currently studying Front-end, focused on web development. Connect with me: 
 <div align="left">
 <a href="https://github.com/DiegooInacio" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
