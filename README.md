@@ -3,7 +3,7 @@
 <h3>Hello, welcome to my Github! :wave:</h3>
 
 <p align="left"> 
-  My name is Diego, I'm 20 years old. I'm studying Computer Science at the Federal Institute of Ceará (IFCE) and I aspire to be a fullstack developer.
+  My name is Diego Inácio, I'm 20 years old. I'm studying Computer Science at the Federal Institute of Ceará (IFCE) and I aspire to be a fullstack developer.
   </br>
   </br>
   I currently work as a <strong>Front-End Developer</strong> at Núcleo de Desenvolvimento de Software in IFCE.
